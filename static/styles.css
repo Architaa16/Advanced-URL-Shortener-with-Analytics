@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+input[type="url"] {
+    width: 300px;
+    padding: 10px;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+}
